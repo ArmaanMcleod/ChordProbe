@@ -20,7 +20,7 @@ My answer:  (3,0,0)
 You got it in 4 guesses!
 ```
 
-# performanceTest.hs
+# average.py
 Calculates average score for every possible guess, and tests performance (execution speed) using the Criterion library. Follow the comments in the script to run.
 
 # The Game of ChordProbe
